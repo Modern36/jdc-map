@@ -1,4 +1,4 @@
-# Journal Digital Corpus Mapper DEMO
+# Journal Digital Corpus Map
 
 An interactive geographical visualization tool for corpus metadata. Displays dual heatmaps of location data with temporal animation capabilities.
 
